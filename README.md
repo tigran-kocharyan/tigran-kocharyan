@@ -3,13 +3,13 @@
 
 #### My name is Tigran, I am `current_year-2001` y.o. 
 
-#### Software Engineer and Android Developer originally from Tashkent, currently in Moscow.
+#### Software Engineer and Android Developer originally from Tashkent, currently in Groningen, Netherlands.
 
 ---
 
 ### Education:
-- National Research University "Higher School of Economics", Faculcty of Computer Science, Bachelor’s Programme "Software Engineering"
-- Master Degree soon to be added...
+- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/), Faculcty of Computer Science
+- Exchange at [Rijksuniversiteit Groningen](https://www.rug.nl/)
 
 ---
 
