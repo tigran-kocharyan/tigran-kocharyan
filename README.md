@@ -9,7 +9,7 @@
 
 ### Education:
 - Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/), Faculcty of Computer Science
-- Exchange at [Rijksuniversiteit Groningen](https://www.rug.nl/)
+- Exchange student at [Rijksuniversiteit Groningen](https://www.rug.nl/)
 
 ---
 
