@@ -3,13 +3,19 @@
 
 #### My name is Tigran, I am `current_year-2001` y.o. 
 
-#### Software Engineer and Android Developer originally from Tashkent, currently in Groningen, Netherlands.
+#### Software Engineer and Android Developer originally from Tashkent 🇺🇿, currently in Moscow 🇷🇺
+
+---
+
+### Work experience:
+- Android Developer at [HSE App X](https://it.hse.ru/news/420722171.html). [App link.](https://play.google.com/store/apps/details?id=com.hse.app2&hl=ru&gl=US)
+- Android Developer at [Sberbank Online](https://www.sberbank.ru/ru/person).
 
 ---
 
 ### Education:
-- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/), Faculcty of Computer Science
-- Exchange student at [Rijksuniversiteit Groningen](https://www.rug.nl/)
+- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/), Faculcty of Computer Science 🇷🇺
+- Exchange student at [Rijksuniversiteit Groningen](https://www.rug.nl/) 🇳🇱
 
 ---
 
