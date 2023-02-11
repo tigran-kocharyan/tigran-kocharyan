@@ -3,7 +3,7 @@
 
 #### My name is Tigran, I am `current_year-2001` y.o. 
 
-#### Software Engineer and Android Developer originally from Tashkent 🇺🇿, currently in Moscow 🇷🇺
+#### Software Engineer and Android Developer originally from Tashkent 🇺🇿
 
 ---
 
