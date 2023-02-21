@@ -10,8 +10,8 @@
 ### Work experience:
 - Android Developer at [Sberbank Online](https://www.sberbank.ru/ru/person).
 - Android Developer at [HSE App X](https://it.hse.ru/news/420722171.html). [App link.](https://play.google.com/store/apps/details?id=com.hse.app2&hl=ru&gl=US)
-- Teaching Assistant on bachelors course ["Software Design"](https://www.hse.ru/en/ba/se/courses/292688669.html)
-- Teaching Assistant on bachelors course ["Programming](https://www.hse.ru/en/ba/se/courses/292698280.html)
+- Teaching Assistant on bachelors course [«Software Design»](https://www.hse.ru/en/ba/se/courses/292688669.html)
+- Teaching Assistant on bachelors course [«Programming»](https://www.hse.ru/en/ba/se/courses/292698280.html)
 
 ---
 
