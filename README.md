@@ -23,8 +23,8 @@
 ---
 
 ### Extra courses:
-- [Mail.ru x HSE Android Development School (Kotlin)](https://mailcourses.ru/curriculum/certificates/download/1814/a0796a13-68dd-4977-b0e9-cea39cf6a053/) January 2021 - June 2021
 - Sberbank Android Development Summer School (Java/Kotlin) June 2021 - October 2021
+- [Mail.ru x HSE Android Development School (Kotlin)](https://mailcourses.ru/curriculum/certificates/download/1814/a0796a13-68dd-4977-b0e9-cea39cf6a053/) January 2021 - June 2021
 
 ---
 
