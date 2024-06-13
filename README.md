@@ -32,3 +32,5 @@
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/Tigran_K)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/k_tigran)
 [![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/toto1love)
+
+![Android](https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif)
